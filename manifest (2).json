@@ -1,0 +1,18 @@
+{
+  "background_color": "#000000",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Income with Impact",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "IWI",
+  "start_url": "/",
+  "theme_color": "#a300f9",
+  "icons": [
+    {
+      "src": "https://preview-internal.clientclub.net/communities/favicon-safari.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    }
+  ]
+}
